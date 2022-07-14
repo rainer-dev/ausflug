@@ -1,2 +1,2 @@
-# ausflug
+# Ausflug
 Hier wierden Informationen verbreitet
